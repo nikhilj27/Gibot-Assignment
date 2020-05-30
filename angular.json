@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gibots-assignment"
+    }
+  },
+  "defaultProject": "gibots-assignment",
+  "cli": {
+    "analytics": "074840e4-fbe6-4ff5-a0ba-baeb0633f1d4"
+  }
 }
